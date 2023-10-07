@@ -26,5 +26,13 @@ This project demonstrates the use of deep learning techniques to classify images
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/LeeChongKeat/CatsVSDogs
+   git clone [https://github.com/LeeChongKeat/CatsVSDogs](https://github.com/LeeChongKeat/Cats_Dogs_Image_Classification.git)
    cd CatsVSDogs
+
+
+   ## Contact
+Name: Lee Chong Keat - jerry_keat@hotmail.com
+
+Project Link: [https://github.com/LeeChongKeat/Cats_Dogs_Image_Classification.git](https://github.com/LeeChongKeat/Cats_Dogs_Image_Classification.git)
+
+Blogger: https://codeallyourlife.blogspot.com/
