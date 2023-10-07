@@ -30,7 +30,7 @@ This project demonstrates the use of deep learning techniques to classify images
    cd CatsVSDogs
 
 
-   ## Contact
+## Contact
 Name: Lee Chong Keat - jerry_keat@hotmail.com
 
 Project Link: [https://github.com/LeeChongKeat/Cats_Dogs_Image_Classification.git](https://github.com/LeeChongKeat/Cats_Dogs_Image_Classification.git)
